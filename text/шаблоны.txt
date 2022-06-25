@@ -1,0 +1,9 @@
+ pastebin.com/n2REF1Gg шаблони для дизайну сайту base.html
+
+https://pastebin.com/pPzSmbv0 шаблон для сторінки create.html
+
+https://pastebin.com/G8dhwdpg шаблон для сторінки edit.html
+
+Запуск
+    #set FLASK_APP= шлях
+    #flask run
